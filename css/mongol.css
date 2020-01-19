@@ -6,7 +6,7 @@
 -ms-　　　…… Internet Explorer 
 */
 * {
-	/* -moz-writing-mode: vertical-lr; */
+	-moz-writing-mode: vertical-lr; 
 	-webkit-writing-mode: vertical-lr;
 	-o-writing-mode: vertical-lr;
 	-ms-writing-mode: tb-lr;
