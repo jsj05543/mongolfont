@@ -1,19 +1,19 @@
 @font-face {
   font-family: 'Mongolian White';
-  src:url('../fonts/mnglwhiteaat.ttf') format('truetype');
+  src:url('../fonts/mnglwhiteotf.ttf') format("opentype");
 
 }
 @font-face {
   font-family: 'Mongolian Writing';
-  src:url('../fonts/mnglwritingaat.ttf') format('truetype');
+  src:url('../fonts/mnglwritingotf.ttf') format('opentype');
 }
 @font-face {
   font-family: 'Mongolian Art';
-  src:url('../fonts/mnglartaat.ttf') format('truetype');
+  src:url('../fonts/mnglartotf.ttf') format('opentype');
 }
 @font-face {
   font-family: 'Mongolian Title';
-  src:url('../fonts/mngltitleaat.ttf') format('truetype');
+  src:url('../fonts/mngltitleotf.ttf') format('opentype');
 }
 @font-face {
   font-family: 'Menk Qagan Tig';
